@@ -4,3 +4,4 @@
 - I am adding a line of code from visual studio code to test the integration.
 - Well that was not so easy to do but with a lot of clicking it worked...
 - Okay let's make this easier this time
+- It's getting easy now
