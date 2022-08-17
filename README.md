@@ -2,3 +2,4 @@
 - 👀 I’m interested in Information technology.
 - 🌱 I’m currently learning to be a Sysadmin in Holland! 
 - I am adding a line of code from visual studio code to test the integration.
+- Well that was not so easy to do but with a lot of clicking it worked...
