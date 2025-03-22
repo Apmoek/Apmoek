@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apmoek
 - 👀 Information technology.
-- 🌱 System engineer! 
+- 🌱 System engineer IT! 
 
 ---
 ## Support
